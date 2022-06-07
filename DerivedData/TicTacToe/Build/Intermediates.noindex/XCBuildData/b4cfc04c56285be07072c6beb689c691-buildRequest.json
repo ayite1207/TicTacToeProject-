@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "d607bdeb9b901b8e843dd77c489f471e6683254582a3a1e0c972bf641cdccc8d"
+    }
+  ],
+  "containerPath" : "/Users/afolly/Desktop/SQLI/BacASable/TicTacToe/TicTacToe.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/afolly/Desktop/SQLI/BacASable/TicTacToe/DerivedData/TicTacToe/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/afolly/Desktop/SQLI/BacASable/TicTacToe/DerivedData/TicTacToe/Build/Products",
+      "derivedDataPath" : "/Users/afolly/Desktop/SQLI/BacASable/TicTacToe/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/afolly/Desktop/SQLI/BacASable/TicTacToe/DerivedData/TicTacToe/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/afolly/Desktop/SQLI/BacASable/TicTacToe/DerivedData/TicTacToe/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/afolly/Desktop/SQLI/BacASable/TicTacToe/DerivedData/TicTacToe/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone13,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "72BD7B33-6B3A-422F-91F4-3B2AF5845BD9",
+          "TARGET_DEVICE_MODEL" : "iPhone13,2",
+          "TARGET_DEVICE_OS_VERSION" : "15.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

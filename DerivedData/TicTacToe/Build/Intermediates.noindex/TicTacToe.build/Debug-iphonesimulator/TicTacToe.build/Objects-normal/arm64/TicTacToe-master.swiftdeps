@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1653672843, 986948013]
+build_end_time: [1653672844, 386121034]
+inputs:
+  "/Users/afolly/Desktop/SQLI/BacASable/TicTacToe/TicTacToe/AppDelegate.swift": [1653670569, 479277610]
+  "/Users/afolly/Desktop/SQLI/BacASable/TicTacToe/TicTacToe/SceneDelegate.swift": [1653670569, 481669902]
+  "/Users/afolly/Desktop/SQLI/BacASable/TicTacToe/TicTacToe/ViewController.swift": [1653672842, 806872844]

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3A768177-D23E-4E71-AC69-DB13D37EE779</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3A768177-D23E-4E71-AC69-DB13D37EE779.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TicTacToe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TicTacToe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TicTacToe</string>
+			<key>timeStartedRecording</key>
+			<real>675364617.63093197</real>
+			<key>timeStoppedRecording</key>
+			<real>675364979.07042396</real>
+			<key>title</key>
+			<string>Run TicTacToe</string>
+			<key>uniqueIdentifier</key>
+			<string>3A768177-D23E-4E71-AC69-DB13D37EE779</string>
+		</dict>
+		<key>88FC4AA8-88EB-41FB-8915-D49AADCFF42E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>88FC4AA8-88EB-41FB-8915-D49AADCFF42E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TicTacToe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TicTacToe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TicTacToe</string>
+			<key>timeStartedRecording</key>
+			<real>675363756.846802</real>
+			<key>timeStoppedRecording</key>
+			<real>675364616.71375406</real>
+			<key>title</key>
+			<string>Run TicTacToe</string>
+			<key>uniqueIdentifier</key>
+			<string>88FC4AA8-88EB-41FB-8915-D49AADCFF42E</string>
+		</dict>
+		<key>91AF7BE6-7C8F-4724-8D7A-21626C150D5A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>91AF7BE6-7C8F-4724-8D7A-21626C150D5A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TicTacToe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TicTacToe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TicTacToe</string>
+			<key>timeStartedRecording</key>
+			<real>675365624.10536504</real>
+			<key>timeStoppedRecording</key>
+			<real>675365643.89326406</real>
+			<key>title</key>
+			<string>Run TicTacToe</string>
+			<key>uniqueIdentifier</key>
+			<string>91AF7BE6-7C8F-4724-8D7A-21626C150D5A</string>
+		</dict>
+		<key>9D18FF63-46B4-4E8E-9DBA-115CA096D8B7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9D18FF63-46B4-4E8E-9DBA-115CA096D8B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TicTacToe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TicTacToe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TicTacToe</string>
+			<key>timeStartedRecording</key>
+			<real>675365012.46876001</real>
+			<key>timeStoppedRecording</key>
+			<real>675365228.99020195</real>
+			<key>title</key>
+			<string>Run TicTacToe</string>
+			<key>uniqueIdentifier</key>
+			<string>9D18FF63-46B4-4E8E-9DBA-115CA096D8B7</string>
+		</dict>
+		<key>C151C587-2C7F-469E-85D9-2F582E09F9AF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C151C587-2C7F-469E-85D9-2F582E09F9AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TicTacToe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TicTacToe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TicTacToe</string>
+			<key>timeStartedRecording</key>
+			<real>675365229.80095005</real>
+			<key>timeStoppedRecording</key>
+			<real>675365608.78020799</real>
+			<key>title</key>
+			<string>Run TicTacToe</string>
+			<key>uniqueIdentifier</key>
+			<string>C151C587-2C7F-469E-85D9-2F582E09F9AF</string>
+		</dict>
+		<key>CCC06F04-E902-4F97-9B79-AD3CE11865BA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CCC06F04-E902-4F97-9B79-AD3CE11865BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TicTacToe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TicTacToe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TicTacToe</string>
+			<key>timeStartedRecording</key>
+			<real>675364997.69523895</real>
+			<key>timeStoppedRecording</key>
+			<real>675365011.65181196</real>
+			<key>title</key>
+			<string>Run TicTacToe</string>
+			<key>uniqueIdentifier</key>
+			<string>CCC06F04-E902-4F97-9B79-AD3CE11865BA</string>
+		</dict>
+		<key>D92159D1-2044-49BD-BF01-DE41A873E06A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D92159D1-2044-49BD-BF01-DE41A873E06A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TicTacToe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TicTacToe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TicTacToe</string>
+			<key>timeStartedRecording</key>
+			<real>675365609.53743601</real>
+			<key>timeStoppedRecording</key>
+			<real>675365623.36809695</real>
+			<key>title</key>
+			<string>Run TicTacToe</string>
+			<key>uniqueIdentifier</key>
+			<string>D92159D1-2044-49BD-BF01-DE41A873E06A</string>
+		</dict>
+		<key>DEAB4BB5-F65D-4815-AF9D-926BA96B03E4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DEAB4BB5-F65D-4815-AF9D-926BA96B03E4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TicTacToe project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TicTacToe</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run TicTacToe</string>
+			<key>timeStartedRecording</key>
+			<real>675363693.78530896</real>
+			<key>timeStoppedRecording</key>
+			<real>675363702.95403099</real>
+			<key>title</key>
+			<string>Run TicTacToe</string>
+			<key>uniqueIdentifier</key>
+			<string>DEAB4BB5-F65D-4815-AF9D-926BA96B03E4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
