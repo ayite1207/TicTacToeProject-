@@ -1,0 +1,9 @@
+# format options
+--allman true
+
+# file options
+--exclude Pods
+--exclude DerivedData
+
+# rules
+--disable elseOnSameLine,semicolons
